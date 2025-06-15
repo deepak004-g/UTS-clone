@@ -1,0 +1,206 @@
+.font{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.full{
+    height: 900px;
+    width: 291.609px;
+    background-color: #fafafa;
+    padding: 16.195px;
+    margin-left: 2px;   
+}
+.scrolling-text-box{
+    display: flex;
+}
+.cris{
+    height: 50px;
+    width: 50px;
+    background-image: url("cris.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+}
+.indian{
+    height: 50px;
+    width: 50px;
+    background-image: url("rail\ logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.scrolling-text{
+    font-size: 25px;
+    color: darkblue;
+    font-weight: 500;
+    margin-top: 3px;
+}
+.contet{
+    margin-left: 10px;
+    height: 475px;
+    width: 275.609px;
+    padding: 8px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(255, 198, 93);
+}
+.section1{
+    font-size: 13.68px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.month{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 30px;
+    color: white;
+    position: relative;
+    background-color: rgb(128, 5, 136);
+}
+.section-2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 65px;
+    color: black;
+    
+}
+.section-3{
+    margin-top: -25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.section-4{
+    margin-top: -25px;
+    display: flex;
+    
+}
+.section-5{
+    margin-top: -25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+    
+}
+.station-block{
+    border-bottom: 2px solid black;
+}
+.cont{
+    display: flex;
+}
+.text{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.circle{
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 30px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: rgb(128, 5, 136);
+}
+.text2{
+    display: flex;
+    display: block;
+}
+.f{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.tp1{
+    margin-top: 10px;
+    display: flex;
+    display: block;
+}
+.main1{
+    justify-content: space-between;
+    display: flex;
+}
+.eng2{
+    margin-bottom: 10px;
+}
+.via{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.cd-1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+}
+.date{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cd{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    height: 100px;
+    width: 291.609px;
+    background-color: white;
+    margin-left: 10px;
+}
+.foot{
+    margin-top: 5px;
+    color: black;
+    font-size: 12px;
+}
+.med1{
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+    font-size: 11px;
+    color: red;
+    font-weight: bold;
+}
+
+.d1{
+    display: flex;
+    margin-top: 5px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    Background: linear-gradient(to right, rgb(248, 116, 21) , rgb(244, 247, 84));
+}
+.d2{
+    display: flex;
+    margin-top: 7px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    Background: linear-gradient(to right, rgb(248, 116, 21) , rgb(244, 247, 84));
+}
+.d3{
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    Background: linear-gradient(to right, rgb(248, 116, 21) , rgb(244, 247, 84));
+}
+.last{
+    margin-top: 5px;
+}.r{
+   margin-top: 5px;
+}
+.d{
+    margin-top: 5px;
+}
+.book{
+    margin-top: 5px;
+}
